@@ -1,4 +1,5 @@
 ProxiMart — Inventory & Order Management for Street Food Vendors
+
 📌 Project Overview
 ProxiMart is a full-stack web application aimed at digitizing inventory and order management for Indian street food vendors. The system helps vendors efficiently track raw materials, monitor stock levels, receive low-stock alerts, and view recent orders — ultimately streamlining sourcing and reducing wastage.
 
