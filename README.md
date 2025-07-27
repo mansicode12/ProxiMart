@@ -61,9 +61,11 @@ Asynchronous API requests using React Hooks
 Conditional rendering for error or empty data cases
 
 ✅ How It Solves the Problem
+
 The original problem focused on helping street food vendors source raw materials efficiently.
 
 Our Solution:
+
 📊 Real-time inventory visibility enables better planning and stock control.
 
 📈 Order history helps manage demand and optimize restocking.
@@ -75,6 +77,7 @@ Our Solution:
 📲 Extendable API paves the way for future integration with local suppliers and analytics.
 
 🚀 Features Implemented
+
  Vendor-based inventory CRUD via Flask API
 
  Low-stock alert system based on thresholds
@@ -88,7 +91,9 @@ Our Solution:
  Error handling and fallback UI for empty data
 
 🛠 Technologies Used
+
 Category	Tech Stack
+
 Frontend	React, Tailwind CSS
 Backend	Flask (Python)
 Database	Firebase Firestore
@@ -96,6 +101,7 @@ API Format	REST with JSON responses
 
 ⚙ Setup Instructions
 📁 Backend (Flask)
+
 Create a Firebase project and configure Firestore.
 
 Set up Firebase credentials (JSON) and integrate with Flask.
@@ -109,6 +115,7 @@ flask run
 Runs at: http://localhost:5000/api
 
 🌐 Frontend (React)
+
 Navigate to the frontend directory.
 
 Install dependencies:
